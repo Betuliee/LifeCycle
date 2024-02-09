@@ -28,7 +28,7 @@ function App() {
       {componentType==='TodosPage' && <TodosPage/>}
       {componentType===null && <div>Seçim yapilmadi</div>}
 
-     {/* <Counter/ */}
+     {/* <Counter/> */}
     </div>
   );
 }
